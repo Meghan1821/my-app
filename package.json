@@ -1,0 +1,12 @@
+{
+  "name": "ci-cd-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests yet\" && exit 0",
+    "lint": "echo \"No lint errors\""
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
